@@ -1,0 +1,21 @@
+@media (max-width:992px) {
+    .left-pannel {
+        display: none;
+    }
+    .parent {
+        display: none;
+    }
+    .parent-2 {
+        display: none;
+    }
+}
+
+@media (max-width:500px) {
+    .carousel-control-next,
+    .carousel-control-prev {
+        width: 22%;
+    }
+    .live {
+        display: none;
+    }
+}
